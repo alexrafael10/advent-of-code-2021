@@ -1,5 +1,5 @@
 
-const { processLineByLine } = require("../utils");
+const { processLineByLine } = require("../../utils");
 
 
 (async function () {
